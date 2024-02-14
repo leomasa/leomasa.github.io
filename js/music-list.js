@@ -46,6 +46,85 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
   },
+  {
+    name: "Acurrucar",
+    artist: "Ed Maverick",
+    img: "music-8",
+    src: "music-8"
+  },
+  {
+    name: "Fuentes de Ortiz",
+    artist: "Ed Maverick",
+    img: "music-9",
+    src: "music-9"
+  },
+  {
+    name: "San Lucas",
+    artist: "Kevin Kaarl",
+    img: "music-10",
+    src: "music-10"
+  },
+  {
+    name: "Abrazado a Ti",
+    artist: "Kevin Kaarl",
+    img: "music-10",
+    src: "music-11"
+  },
+  {
+    name: "Ropa De Bazar (con BRATTY)",
+    artist: "Ed Maverick",
+    img: "music-12",
+    src: "music-12"
+  },
+  {
+    name: "Ayer y hoy",
+    artist: "Julio Jaramillo",
+    img: "music-13",
+    src: "music-13"
+  },
+  {
+    name: "Algo contigo",
+    artist: "Rita Payés y Elisabeth Roma",
+    img: "music-14",
+    src: "music-14"
+  },
+  {
+    name: "Where You Are",
+    artist: "Christopher Jackson, Rachel House, Nicole Scherzinger y Auli'i Cravalho",
+    img: "music-15",
+    src: "music-15"
+  },
+  {
+    name: "Un Poco Loco",
+    artist: "Luis Ángel Gómez Jaramillo y Gael García Bernal",
+    img: "music-16",
+    src: "music-16"
+  },
+  {
+    name: "Un Amigo Fiel",
+    artist: "Arturo Mercado Jr",
+    img: "music-17",
+    src: "music-17"
+  },
+  {
+    name: "Con Toda Libertad",
+    artist: "Yuridia",
+    img: "music-18",
+    src: "music-18"
+  },
+  {
+    name: "De nada",
+    artist: "Beto Castillo",
+    img: "music-19",
+    src: "music-19"
+  },
+  {
+    name: "Hombres de Acción Serán Hoy",
+    artist: "Cristian",
+    img: "music-20",
+    src: "music-20"
+  },
+
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
